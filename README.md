@@ -1,4 +1,4 @@
-# CAACP
+# CA-ACP
 
 # Reliable Volumetric Uncertainty for Foundation Models: Class-Aware Asymmetric Conformal Prediction |CVPR 2026 Submission (Code Release Placeholder)
 
