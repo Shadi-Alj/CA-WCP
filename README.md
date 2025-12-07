@@ -1,8 +1,8 @@
 # CA-WCP
 
-# Reliable Volumetric Uncertainty for Foundation Models: Class-Aware Asymmetric Weighted Conformal Prediction |CVPR 2026 Submission (Code Release Placeholder)
+# Reliable Volumetric Uncertainty for Foundation Models: Class-Aware Asymmetric Weighted Conformal Prediction
 
-This repository contains the working implementation for our CVPR 2026 submission **“Subregion-Aware Asymmetric Weighted Conformal Prediction for MedSAM”**. The method adapts LiteMedSAM to multi-modal MRI data, trains multi-head segmenters, and applies weighted conformal prediction with subregion-specific adjustments to obtain distribution-shift-robust uncertainty bounds.
+This repository contains the working implementation for **“Subregion-Aware Asymmetric Weighted Conformal Prediction for MedSAM”**. The method adapts LiteMedSAM to multi-modal MRI data, trains multi-head segmenters, and applies weighted conformal prediction with subregion-specific adjustments to obtain distribution-shift-robust uncertainty bounds.
 
 At present the repository remains private while the paper is under review. Upon publication we will:
 
@@ -10,8 +10,6 @@ At present the repository remains private while the paper is under review. Upon 
 * Provide scripts to reproduce all figures (error-pattern plots, coverage/width comparisons, 3D visualizations, workflow diagram).
 * Release checkpoints for the fine-tuned LiteMedSAM and the calibration weights.
 * Publish a detailed tutorial for preparing BraTS data, generating multi-head predictions, extracting latent features, and calibrating weighted conformal intervals.
-
-If you are a reviewer and need access to re-run experiments, please contact the authors through the CVPR submission portal.
 
 Below is the original LiteMedSAM README retained for context; our final release will include an updated guide tailored to the asymmetric conformal prediction pipeline.
 
