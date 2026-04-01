@@ -1,4 +1,4 @@
-# CA-WCP
+# CAWCP
 
 # Reliable Volumetric Uncertainty for Foundation Models: Class-Aware Asymmetric Weighted Conformal Prediction
 
